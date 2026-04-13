@@ -1,4 +1,5 @@
 .netlify/
+.skill-archive/
 .DS_Store
 Thumbs.db
 *.log
